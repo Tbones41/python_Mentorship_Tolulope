@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec4ef2e5-5a39-4a8e-9e12-fead708a62ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Week_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenge_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenge_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Challenge_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Challenge_3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,10 +13,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Challenge_2.py">
+        <entry file="file://$PROJECT_DIR$/Challenge_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -43,6 +38,7 @@
       <list>
         <option value="$PROJECT_DIR$/Challenge_1.py" />
         <option value="$PROJECT_DIR$/Challenge_2.py" />
+        <option value="$PROJECT_DIR$/Challenge_3.py" />
       </list>
     </option>
   </component>
@@ -188,6 +184,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Challenge_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
