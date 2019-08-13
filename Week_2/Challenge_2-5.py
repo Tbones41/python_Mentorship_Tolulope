@@ -6,12 +6,11 @@ def dice():
         print(random.randint(1, 6))
         answer = input("Do you want to roll again? Y/N>> ").lower()
         if str(answer) == "y":
-            print(dice())
+            return dice()
         elif str(answer) == "n":
-            print("Program Ended")
+            return "Program Ended"
         else:
-            print("Wrong Answer")
-        break
+            return"Wrong Answer"
 
 
-dice()
+print(dice())
