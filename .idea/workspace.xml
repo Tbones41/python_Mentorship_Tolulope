@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc1781ac-6885-4125-9a0a-eb20bbf06abd" name="Default Changelist" comment="Challenge 2 commit">
-      <change beforePath="$PROJECT_DIR$/Week_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Week_1/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fc2e50b0-a4b4-475d-9126-f327d7689dc0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_3/Challenge_3-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week_3/Challenge_3-1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week_2/Challenge_2-5.py">
+        <entry file="file://$PROJECT_DIR$/Week_3/Challenge_3-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            <state>
+              <caret column="27" selection-start-column="27" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -42,10 +43,11 @@
         <option value="$PROJECT_DIR$/Week_2/Challenge_2_4.py" />
         <option value="$PROJECT_DIR$/Week_2/Challenge_2-5.py" />
         <option value="$PROJECT_DIR$/Week_2/Challenge_2-1.py" />
+        <option value="$PROJECT_DIR$/Week_3/Challenge_3-1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="745" />
@@ -55,6 +57,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -67,11 +70,15 @@
               <item name="python_Mentorship_Tolulope" type="462c0819:PsiDirectoryNode" />
               <item name="Week_2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python_Mentorship_Tolulope" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_Mentorship_Tolulope" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -91,28 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Challenge_2-1">
-    <configuration name="Challenge _2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_Mentorship_Tolulope" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_2/Challenge _2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Challenge_3-1">
     <configuration name="Challenge_2-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_Mentorship_Tolulope" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,6 +162,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Challenge_3-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_Mentorship_Tolulope" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_3/Challenge_3-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Challenge_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_Mentorship_Tolulope" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Challenge_3-1" />
+        <item itemvalue="Python.Challenge_3" />
         <item itemvalue="Python.Challenge_2-1" />
         <item itemvalue="Python.Challenge_2-5" />
         <item itemvalue="Python.Challenge_2_4" />
-        <item itemvalue="Python.Challenge_3" />
-        <item itemvalue="Python.Challenge _2" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +219,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dc1781ac-6885-4125-9a0a-eb20bbf06abd" name="Default Changelist" comment="" />
+      <changelist id="fc2e50b0-a4b4-475d-9126-f327d7689dc0" name="Default Changelist" comment="" />
       <created>1564349455503</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -221,15 +228,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="745" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22913505" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.122023806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -269,8 +275,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week_2/Challenge_2-5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_3/Challenge_3-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
         </state>
       </provider>
     </entry>
